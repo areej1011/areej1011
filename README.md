@@ -6,9 +6,6 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/areej-mohamed-3772b22b2">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
   <img src="https://img.shields.io/badge/Location-Egypt-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=for-the-badge"/>
 </p>
