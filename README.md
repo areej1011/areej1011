@@ -68,7 +68,7 @@
 | Certificate | Issuer | Score | Year |
 |---|---|---|---|
 | Cybersecurity Diploma – SOC Track | AMIT Learning | 2025 |
-| CyberOps Associate | Cisco Networking Academy | Verified | 2025 |
+| CyberOps Associate | Cisco Networking Academy | 2025 |
 | MEAN-Stack Web Development | NTI / ITIDA | 2025 |
 
 ---
