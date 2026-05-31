@@ -18,8 +18,8 @@
 ## About Me
 
 - 3rd-year CS student at **Nile University**, majoring in **Big Data**
-- Certified in **CyberOps Associate** (Cisco) & completed **Cybersecurity Diploma SOC** at AMIT with **97% grade**
-- Trained in **MEAN-Stack Web Development** at NTI/ITIDA with **83.5% score**
+- Certified in **CyberOps Associate** (Cisco) & completed **Cybersecurity Diploma SOC** at AMIT 
+- Trained in **MEAN-Stack Web Development** at NTI/ITIDA 
 - Passionate about cybersecurity, data, and building real-world projects
 
 
