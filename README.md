@@ -65,11 +65,11 @@
 
 ## Certifications
 
-| Certificate | Issuer | Score | Year |
+| Certificate | Issuer | Year |
 |---|---|---|---|
-| Cybersecurity Diploma – SOC Track | AMIT Learning | 2025 |
-| CyberOps Associate | Cisco Networking Academy | 2025 |
-| MEAN-Stack Web Development | NTI / ITIDA | 2025 |
+| Cybersecurity Diploma – SOC Track | AMIT Learning | 2023 |
+| CyberOps Associate | Cisco Networking Academy | 2024 |
+| MEAN-Stack Web Development | NTI / ITIDA | 2024 |
 
 ---
 
