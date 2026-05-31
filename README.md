@@ -21,7 +21,7 @@
 - Certified in **CyberOps Associate** (Cisco) & completed **Cybersecurity Diploma SOC** at AMIT with **97% grade**
 - Trained in **MEAN-Stack Web Development** at NTI/ITIDA with **83.5% score**
 - Passionate about cybersecurity, data, and building real-world projects
-- [LinkedIn](https://linkedin.com/in/areej-mohamed-3772b22b2)
+
 
 ---
 
